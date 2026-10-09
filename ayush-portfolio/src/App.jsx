@@ -375,6 +375,8 @@ function Footer() {
       <div className="contact">
         <span>AYUSH THAKUR © {new Date().getFullYear()}</span>
         <a href="https://www.linkedin.com/in/ayush-thakur-a91827419/" target="_blank" rel="noopener noreferrer">LINKEDIN ↗</a>
+        <a href="mailto:ayusheditor1503@gmail.com">EMAIL ↗</a>
+        <a href="https://wa.me/919599648246" target="_blank" rel="noopener noreferrer">WHATSAPP ↗</a>
         <a href="tel:+919599648246">+91 95996 48246</a>
         <span>DELHI, INDIA</span>
         <a href="#top">BACK TO TOP ↑</a>
